@@ -1,2 +1,8 @@
-# sql-sleuth
-Sniff out slow queries and bad indexes 🕵️‍♂️ with a sharp eye on SQL Server performance.
+# SQL Sleuth: SQL Server Optimization Toolkit
+
+
+A set of scripts and a C# CLI tool that analyzes, reports, and suggests optimizations for SQL Server queries and indexes.
+
+
+Why It Pops: Many devs struggle with SQL performance—this solves real pain points.
+
